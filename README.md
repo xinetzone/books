@@ -1,3 +1,3 @@
-# books
+# 遇见更美好的自己
 
-- [搜索资源](search/README.md)
+@import "lists.md"
